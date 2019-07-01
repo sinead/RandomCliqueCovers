@@ -1,0 +1,5 @@
+--------
+/mnt/c/Github/SparseDense/benchmarks/snap/examples/kronfit/kronfit.Err
+Sat Jan  5 17:05:34 2019
+Execution stopped: Rows == Cols, file ../../snap-adv/kronecker.cpp, line 688
+--------
